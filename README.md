@@ -2,6 +2,10 @@
 
 MiniLab is a beginner-friendly, portable environmental and scientific measurement device. The initial concept combines an ESP32-class development board with temperature/humidity sensing, ambient-light sensing, a small OLED display, and at least one physical input.
 
+![MiniLab V1 concept render](docs/images/minilab-v1-concept.png)
+
+*Concept render of the planned MiniLab V1. The device has not yet been physically built.*
+
 ## Project status
 
 **Design / Planning**
